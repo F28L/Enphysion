@@ -5,7 +5,6 @@ description = ""
 authors = ["Sandeep Ramesh <cfcsandeep@gmail.com>"]
 readme = "README.md"
 
-virtualenvs.in-project = true
 
 [tool.poetry.dependencies]
 python = "^3.9"
